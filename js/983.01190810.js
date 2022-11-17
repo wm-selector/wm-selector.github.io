@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwm_selector"]=self["webpackChunkwm_selector"]||[]).push([[983],{5983:function(e,t,n){n.r(t),n.d(t,{default:function(){return o}});var s=function(){var e=this,t=e._self._c;return t("main",{staticClass:"text-view"},[t("TextList")],1)},l=[],u=n(8360),c={name:"TextView",components:{TextList:u.Z}},i=c,r=n(1001),a=(0,r.Z)(i,s,l,!1,null,null,null),o=a.exports}}]);
+//# sourceMappingURL=983.01190810.js.map
